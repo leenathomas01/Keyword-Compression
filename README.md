@@ -276,7 +276,6 @@ when time is short — anchors carry meaning that descriptions cannot.
 
 This principle appears as a structural primitive across several repositories:
 
-- **[Shape Memory Architecture](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)** — where anchors serve as retrieval keys for semantic shapes
 - **[The 70% Fidelity Principle](https://github.com/leenathomas01/The-70-Fidelity-Principle)** — reconstruction fidelity that makes anchor-based recall stable
 - **[Cockroach Testing](https://github.com/leenathomas01/cockroach-testing)** — stress-testing anchor stability under adversarial conditions
 
