@@ -114,16 +114,23 @@ Different domains. Same structural pattern.
 A good anchor is:
 
 ✅ **Memorable** — distinctive enough to stick
+
 ✅ **Specific** — points to one concept, not many
+
 ✅ **Evocative** — triggers reconstruction cues
+
 ✅ **Short** — ideally 1–3 tokens
+
 ✅ **Tolerant of variation** — works despite typos or paraphrase
 
 A good anchor is **not**:
 
 ❌ Generic ("the thing we discussed")
+
 ❌ Descriptive ("the multi-layered approach to distributed validation")
+
 ❌ Context-free ("item 7")
+
 ❌ Long (if it feels explanatory, it's too long)
 
 **Rule of thumb:**
